@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm a full stack blockchain & web developer.</h1>
-   <p>
-      <a href="https://github.com/MigelTom/" >
-       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=MigelTom&hide=java,html,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
-     </a>
-     <a href="https://github.com/MigelTom/MigelTom" >
-       <img align="center" src="https://github-readme-stats.vercel.app/api?username=MigelTom&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="BBShark's GitHub Stats" height="180px"/>
-     </a>
+<p>
+  <a href="https://github.com/jaylee923/" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=jaylee923&hide=java,html,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+  </a>
+  
+  <a href="https://github.com/jaylee923/jaylee923" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaylee923&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="BBShark's GitHub Stats" height="180px"/>
+  </a>
  </p>  
  
 ## 🔧 Technologies & 📖 Languages
@@ -105,7 +106,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
          alt="vuejs" width="40" height="40"/> </a></p>
 
+
 ## AWARDS  
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=MigelTom)](https://github.com/MigelTom/MigelTom)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaylee923)](https://github.com/jaylee923/jaylee923)  
 
+  
