@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a full stack <span style="color:red; font-weight:bold">Solana</span> developer.</h1>
+<h1 align="center">Hi 👋, I'm a full stack <span style="color:red; font-weight:bold">Blockchain</span> developer.</h1>
 <p>
   <a href="https://github.com/markjames12210/" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=markjames12210&hide=java,html,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
